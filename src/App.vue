@@ -6,7 +6,7 @@ import Form from './components/Form/Form.vue'
 <template>
   <div class ="logo-container">
     <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/download.jpg" class="logo gini" alt="Gini logo" />
+      <img src="./assets/Gini-App.png" class="logo gini" alt="Gini logo" />
     </a>
   </div>
   <Form />
